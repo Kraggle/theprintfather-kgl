@@ -1,0 +1,8 @@
+{
+    "typeAcquisition": {
+        "include": [
+            "jquery"
+        ]
+    },
+    "include": ["resources/js/**/*", "resources/js/*"]
+}
