@@ -1,5 +1,7 @@
+---
 deployment:
   tasks:
+    - export DEPLOYPATH=/home/gdaddykraggle/theprintfather.kgl.app/
     - composer install
     - PATH={path_to_node}:$PATH
     - npm i
